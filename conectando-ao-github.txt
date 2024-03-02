@@ -1,0 +1,9 @@
+Plataforma online onde eu possa expor meus principais projetos na comunidade, sendo diversas as possibilidades 
+que eu possa fazer com esta plataforma!
+
+principais comandos: 
+    - git remote add origin "link do projeto no github"
+    - git push origin main: joga o projeto atualizado no github
+    - git pull origin main: puxa o projeto (atualizado ou não) para o repositório local
+    - .gitignore: arquivo no qual serve para inserir outros arquivos, nos quais serão ignorados ao serem 
+    jogados no repositório remoto
