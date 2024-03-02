@@ -1,0 +1,2 @@
+Utilizadas geralmente para você ou outro usuário colaborador do código alterar certas funcionalidades do código, 
+podendo ser juntadas ao código principal posteriormente ou não.
