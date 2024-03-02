@@ -1,0 +1,4 @@
+    Instalação sem muita complicação, apenas com certa dificuldade inicialmente á me acostumar com os 
+principais comandos do terminal do windows (Algo que anteriormente eu tinha dificuldade devido a falta 
+de curiosidade para aprender sobre, mas hoje tenho orgulho de dizer que superei meus medos!!! vamo pra 
+cima !!!)
