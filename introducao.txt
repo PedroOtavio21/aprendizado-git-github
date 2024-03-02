@@ -1,0 +1,2 @@
+    Tal pasta consciste em repassar o meu aprendizado de git e github (Além do aprendizado com o terminal 
+do windows), como caminho para me tornar um desenvolvedor front-end de sucesso!
