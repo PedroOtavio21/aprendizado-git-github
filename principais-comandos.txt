@@ -1,0 +1,29 @@
+Principais comandos do terminal: 
+    - echo "Texto qualquer"
+    - ls :listagem de itens
+    - pwd :mostra o caminho do diretório atual
+    - mkdir nomeArquivo: Cria uma nova pasta
+    - rm nomeArquivo: Remove o arquivo selecionado
+    - touch ou New-Item nomeDoArquivo: cria um novo arquivo
+    - cat nomeArquivo: Captura e exibe no computador o conteúdo do arquivo
+    - less nomeArquivo: Mostra o nome do arquivo no console
+    - histoy: exibe o histórico de comandos
+    - cp nomeArquivo nomeDoArquivoDesejado: copia o conteúdo de um arquivo para outro
+    - mv nomeArquivo nomeDoArquivoDesejado: move o conteúdo de um arquivo para outro, apagando o último
+    - clear: limpa o console
+    - exit: termina a execução do console!
+
+Principais comandos do git:
+    - git init: inicia o repositório
+    - git add nomeArquivo ou .: adciona o arquivo atualizado para o repositório
+    - git commit: adciona os arquivos selecionados e os "salva"
+    - git status: mostra o estado atual do repositório (podendo estar com arquivos atualizados selecionados 
+    ou não!)
+    - git log: exibe os últimos commits feitos pelo usuário
+    - git diff: exibe as alterações feitas nos arquivos.
+    - git checkout nomeBranch: muda de branch para uma outra selecionada
+    - git branch: exibe as branchs feitas pelo usuário
+    - git merge nomeBranch: junta a branch selecionada para a branch que você se encontra
+    - git -b nomeBranch: cria uma nova branch
+    - git branch -D nomeBranch: deleta a branch selecionada
+     
